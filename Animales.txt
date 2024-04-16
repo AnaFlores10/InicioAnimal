@@ -1,3 +1,7 @@
 Animales 
 Oso 
 Águila
+Caballo
+Lobo
+Puma
+
